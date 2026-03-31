@@ -17,7 +17,7 @@ genai-tutorials/
 │   ├── image_gen_tutorial.py  Stable Diffusion / text-to-image generation
 │   └── README.md
 │
-├── 03_rag_models/             🔜 Planned
+├── 03_rag_models/             ✅ Planned
 │   ├── rag_tutorial.py        Retrieval-Augmented Generation
 │   └── README.md
 │
