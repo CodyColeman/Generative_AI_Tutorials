@@ -13,19 +13,19 @@ genai-tutorials/
 │   ├── llm_tutorial.py        Text generation & prompting (CPU-friendly)
 │   └── README.md              Full parameter guide + prompt engineering tips
 │
-├── 02_image_generation/       🔜 Coming next
+├── 02_image_generation/       ✅ AVAILABLE
 │   ├── image_gen_tutorial.py  Stable Diffusion / text-to-image generation
 │   └── README.md
 │
-├── 03_rag_models/             🔜 Planned
+├── 03_rag_models/             ✅ AVAILABLE
 │   ├── rag_tutorial.py        Retrieval-Augmented Generation
 │   └── README.md
 │
-├── 04_fine_tuning/            🔜 Planned
+├── 04_fine_tuning/            ✅ AVAILABLE
 │   ├── finetune_tutorial.py   Fine-tuning with LoRA / PEFT
 │   └── README.md
 │
-├── 05_embeddings/             🔜 Planned
+├── 05_embeddings/             ✅ AVAILABLE
 │   ├── embeddings_tutorial.py Semantic search & vector similarity
 │   └── README.md
 │
