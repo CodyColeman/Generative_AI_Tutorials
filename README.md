@@ -29,7 +29,7 @@ genai-tutorials/
 │   ├── embeddings_tutorial.py Semantic search & vector similarity
 │   └── README.md
 │
-└── 06_agents/                 🔜 Planned
+└── 06_agents/                 ✅ AVAILABLE
     ├── agents_tutorial.py     Tool-using LLM agents
     └── README.md
 ```
